@@ -1,0 +1,10 @@
+C:\Users\joshu\source\repos\ToDoListForm\ToDoListForm\bin\Debug\ToDoListForm.exe.config
+C:\Users\joshu\source\repos\ToDoListForm\ToDoListForm\bin\Debug\ToDoListForm.exe
+C:\Users\joshu\source\repos\ToDoListForm\ToDoListForm\bin\Debug\ToDoListForm.pdb
+C:\Users\joshu\source\repos\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.frmActividades.resources
+C:\Users\joshu\source\repos\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.Properties.Resources.resources
+C:\Users\joshu\source\repos\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.exe
+C:\Users\joshu\source\repos\ToDoListForm\ToDoListForm\obj\Debug\ToDoListForm.pdb
